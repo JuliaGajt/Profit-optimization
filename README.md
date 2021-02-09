@@ -1,1 +1,2 @@
-# Projekt opptymalizacji zysków piekarni za pomocą algorytmu ewolucyjnego.
+# Projekt optymalizacji zysków piekarni za pomocą algorytmu ewolucyjnego.
+Bakery profit optimization project using an evolutionary algorithm.
